@@ -9,7 +9,7 @@ Currently it only contains two tools, but I will try to expand it in the future.
 ### Tools short description
 
 - `gclone.py` - *This code, when run with a GitHub repository URL as a command-line argument, clones the repository into a designated directory on your system. It automates the cloning process, making it easy to fetch repositories for further use.*
-- ``autoinit.py` - *This script streamlines the process of initializing and pushing changes  to a Git repository. By providing the repository's remote URL, default  branch name, and commit message as arguments, the script performs the  following tasks:*
+- `autoinit.py` - *This script streamlines the process of initializing and pushing changes  to a Git repository. By providing the repository's remote URL, default  branch name, and commit message as arguments, the script performs the  following tasks:*
   - Initializes a new Git repository.
   - Adds the remote repository URL.
   - Sets the default branch.
